@@ -25,7 +25,7 @@ Projeyi klonlayın
 Proje dizinine gidin
 
 ```bash
-  cd challEnge
+  cd challenge
 ```
 
 Docker compose ile çalıştırın
