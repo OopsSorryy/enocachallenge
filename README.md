@@ -25,7 +25,7 @@ Projeyi klonlayın
 Proje dizinine gidin
 
 ```bash
-  cd challenge
+  cd enocachallenge-main
 ```
 
 Docker compose ile çalıştırın
